@@ -3,7 +3,9 @@
     srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00aaff,100:0051ff&text=Hey%20👋%20I'm%20Dharanish!&section=header&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70&fontAlign=50" 
     media="(prefers-color-scheme: light)" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00aaff,100:0051ff&text=Hey%20👋%20I'm%20Dharanish!&section=header&fontSize=28&fontColor=000000&animation=fadeIn&fontAlignY=70&fontAlign=50" />
+src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00aaff,100:0051ff&text=Hey%20👋%20I'm%20Dharanish!&section=header&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70&fontAlign=50" 
+/>
+
 </picture>
 
 <div align="center">
