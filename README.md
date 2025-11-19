@@ -83,21 +83,14 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 ---
 
-# 📊 **GitHub Stats**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dharan-07&show_icons=true&theme=tokyonight&bg_color=0,000000,001122&hide_border=true&icon_color=00aaff&text_color=9ecbff" height="185">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan-07&layout=compact&theme=tokyonight&bg_color=0,000000,001122&hide_border=true&icon_color=00aaff&text_color=9ecbff" height="185">
-
-</div>
 
 ---
 
 <picture>
   <source 
     srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00aaff,100:0051ff&section=footer&desc=Let's%20connect!%20I'm%20just%20an%20email%20away%20📩&descSize=14&fontColor=ffffff&descAlignY=54&animation=fadeIn&descAlign=50" 
-    media="(prefers-color-scheme: dark)" />
+    media="(prefers-color-scheme: light)" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00aaff,100:0051ff&section=footer&desc=Let's%20connect!%20I'm%20just%20an%20email%20away%20📩&descSize=14&fontColor=000000&descAlignY=54&animation=fadeIn&descAlign=50" />
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00aaff,100:0051ff&section=footer&desc=Let's%20connect!%20I'm%20just%20an%20email%20away%20📩&descSize=14&fontColor=ffffff&descAlignY=54&animation=fadeIn&descAlign=50" />
 </picture>
