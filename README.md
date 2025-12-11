@@ -28,61 +28,70 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 ---
 
-# 🔥 **Tech Stack & Tools**
+
+# 🔥 Tech Stack & Tools
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="28">
+</p>
 
 ---
 
-## 🎨 **Frontend**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="28">
+### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=mongodb&logoColor=00ED64" height="28">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="28">
+</p>
 
 ---
 
-## ⚙️ **Backend**
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=mongodb&logoColor=00ED64" height="28">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="28">
+### 🔗 Blockchain / Web3
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=000" height="28">
+  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Ethers.js-2536EB?style=flat&logo=ethers&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/IPFS-0A011F?style=flat&logo=ipfs&logoColor=65C2CB" height="28">
+  <img src="https://img.shields.io/badge/Metamask-FF6A00?style=flat&logo=metamask&logoColor=white" height="28">
+</p>
 
 ---
 
-## 🔗 **Blockchain / Web3**
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=000" height="28">
-<img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Ethers.js-2536EB?style=flat&logo=ethers&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/IPFS-0A011F?style=flat&logo=ipfs&logoColor=65C2CB" height="28">
-<img src="https://img.shields.io/badge/Metamask-FF6A00?style=flat&logo=metamask&logoColor=white" height="28">
+### 🔐 Cybersecurity
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Nmap-4479A1?style=flat" height="28">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat" height="28">
+  <img src="https://img.shields.io/badge/OSINT%20Tools-5B5B5B?style=flat&logo=dependabot&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=00FF00" height="28">
+  <img src="https://img.shields.io/badge/SIEM%20Tools-0033AA?style=flat&logo=elastic&logoColor=white" height="28">
+</p>
 
 ---
 
-## 🔐 **Cybersecurity**
-<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Nmap-4479A1?style=flat" height="28">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Metasploit-000000?style=flat" height="28">
-<img src="https://img.shields.io/badge/OSINT%20Tools-5B5B5B?style=flat&logo=dependabot&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=00FF00" height="28">
-<img src="https://img.shields.io/badge/SIEM%20Tools-0033AA?style=flat&logo=elastic&logoColor=white" height="28">
+### 🛠️ DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28">
+</p>
 
 ---
-
-## 🛠️ **DevOps & Tools**
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="28">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28">
-
 ---
-
 ---
 ---
 
@@ -91,7 +100,21 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dharan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dharan-07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Overall Stats -->
+![Dharanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharan-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan-07&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -112,6 +135,7 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 </div>
 
+---
 ---
 
 <picture>
