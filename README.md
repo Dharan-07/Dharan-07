@@ -83,6 +83,33 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 ---
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=0702dharanish&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharan-07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=0702dharanish&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
 
 
 ---
