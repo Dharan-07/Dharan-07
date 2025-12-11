@@ -84,13 +84,14 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 ---
 
 ---
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=0702dharanish&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dharan-07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
 
 </div>
 
@@ -107,10 +108,9 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=0702dharanish&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dharan-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
-
 
 ---
 
