@@ -35,7 +35,6 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="28">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="28">
 </p>
 
@@ -57,7 +56,6 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=hardhat&logoColor=000" height="28">
-  <img src="https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Ethers.js-2536EB?style=flat&logo=ethers&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/IPFS-0A011F?style=flat&logo=ipfs&logoColor=65C2CB" height="28">
@@ -104,14 +102,11 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 <div align="center">
 
 <!-- GitHub Overall Stats -->
-![Dharanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharan-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 </div>
 
 <div align="center">
 
 <!-- GitHub Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan-07&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -124,15 +119,6 @@ I’m now exploring the world of **Blockchain Development + Ethical Hacking + Cy
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dharan-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 ---
 
 <picture>
